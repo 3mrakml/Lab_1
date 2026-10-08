@@ -1,0 +1,16 @@
+# Compiler intermediate files
+*.o
+*.d
+*.map
+*.lss
+
+# IDE & workspace files
+.vs/
+*.atsuo
+*.workspace
+
+# Course reference materials
+reference/
+
+# Large simulation video (Recommended to host on Google Drive)
+# RTC_SPI_Project.mp4
